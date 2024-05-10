@@ -6,8 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/from%20/userLisG-black?logo=github&logoColor=Write">
-  <img src="https://img.shields.io/badge/Mad%20Dogs%20BOT-black?logo=javascript&logoColor=Write">
-  <img src="https://img.shields.io/badge/Santos%20Roleplay-black?logo=lua&logoColor=Write">
+  <img src="https://img.shields.io/badge/LisStore-black?logo=javascript&logoColor=Write">
 </div>
 <hr>
 
