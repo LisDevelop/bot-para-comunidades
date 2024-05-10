@@ -15,3 +15,21 @@
 
 #### Community BOT, o quê é?
 - Segurança, entretenimento e gerenciamento, três focos principais que planejamos para um BOT de comunidades simples de usar e intuitivo para administradores. O BOT interage dentro de um servidor com nível de segurança alto, por usar recursos de banimentos, expulsões ou exclusões de canais, mas mantermos a segurança no código viés ao gestor do BOT e aquele que solicitou a compra. Um BOT que faz sorteios automáticos, gera mensagens automáticas sem precisar de moderadores, verifica mensagens-chave para bloqueio de insultos, cria jogos públicos sem sequer precisar de um administrador online para isso.
+<hr>
+
+### Sistemas atribuidos ao BOT
+
+|          Sistema                |                Sobre                      |                    Progresso                 |          Documentação          |
+|           :---:                 |               :---:                       |                     :---:                    |             :---:              |
+|        Bem-vindo(a)             |        Entrar/sair do grupo               |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Anúncios administrativos |        Criar anúncios                     |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Ticket-system            |        Sistema de ticket completo         |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Mensagens automáticas    |        Mensagens automáticas completo     |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        RichPresence             |      Gerenciar mensagens no RichPresence  |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Anúncios de games        |        Anúncios automáticos de jogos      |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Anúncios de animes       |        Anúncios automáticos de animes     |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Anúncios de sorteios     |        Sistema de sorteios completo       |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Jogo de sinuca           |        Jogar sinuca completo              |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Jogo da garrafa          |        Jogo da garrafa completo           |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Jogo de dados            |        Jogo dos dados completo            |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+|        Jogo de roleta-russa     |        Jogo de roleta russa completo      |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
