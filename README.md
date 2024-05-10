@@ -12,4 +12,7 @@
 <hr>
 
 ### Introdução
-- O BOT foi totalmente estruturado para todas as comunidades do discord, nosso propósito é dissolver tudo em um único BOT, com sistemas implementados.
+- Comunidades no Discord não são complicadas de gerenciar para alguém comum e que não tem cinco horas do dia para estar em um único aplicativo? Isso é exaustivo! Então, essa aplicação faz com que toda essa complicação seja resolvida com simples cliques, de forma intuitiva e prática. Não, nós não usamos o chat-gpt para qualquer interação, focamos em desenvolver algo direto do desenvolvedor para o cliente sem nenhum intermediário, dessa forma projetamos sistemas focados em ajudar e que já foram, de alguma forma, reportados para nós como algo a ser implementado. **LisStore** é uma empresa que está preparada para ajudar seus membros e por isso esse BOT foi criado com sistemas automáticos e de manipulações únicas. 
+
+#### Community BOT, o quê é?
+- Segurança, entretenimento e gerenciamento, três focos principais que planejamos para um BOT de comunidades simples de usar e intuitivo para administradores. O BOT interage dentro de um servidor com nível de segurança alto, por usar recursos de banimentos, expulsões ou exclusões de canais, mas mantermos a segurança no código viés ao gestor do BOT e aquele que solicitou a compra. Um BOT que faz sorteios automáticos, gera mensagens automáticas sem precisar de moderadores, verifica mensagens-chave para bloqueio de insultos, cria jogos públicos sem sequer precisar de um administrador online para isso.
