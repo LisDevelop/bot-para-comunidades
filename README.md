@@ -11,4 +11,5 @@
 </div>
 <hr>
 
-### Desenvolvimento pessoal
+### Introdução
+- O BOT foi totalmente estruturado para todas as comunidades do discord, nosso propósito é dissolver tudo em um único BOT, com sistemas implementados.
