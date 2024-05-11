@@ -39,9 +39,7 @@
 
   #### Tipo 1:
   - Bem-vindo(a) com uma imagem intuitiva, agradável e lindíssima, basta a pessoa entrar dentro do grupo que receberá essa mensagem com uma marcação. A imagem tem um background e informações importantes sobre o usuário, focamos em deixar algo mais prático e sem muitas coisas, simplesmente uma imagem com informações e algo que dê um trajeto para quem entrar na sua comunidade.
- 
   #### Tipo 2:
   - Não gostou da ideia de apenas uma imagem com background, quer ter mais segurança? Então o tipo dois é o melhor para você. Ele faz a mesma coisa que o tipo um, mas antes de liberar o acesso completo ao grupo ele pede que faça uma verificação simplesmente clicando em um botão, dessa forma ele verifica o usuário e libera os canais, evitando aqueles BOTS genéricos na internet que só servem para spammar coisas para seus membros e outros chats.
- 
   #### Tipo 3:
   - Mais, mais segurança!!! Nossa, se quer mais segurança, o sistema também tem para te oferecer! Com isso e os recursos do próprio discord de autentificação de telefone seu grupo será o mais seguro da atualidade! No tipo três elevamos a segurança, agora o usuário deverá clicar no botão e responder a um captcha gerado automaticamente, dessa forma nenhum BOT genérico conseguirá passar.
