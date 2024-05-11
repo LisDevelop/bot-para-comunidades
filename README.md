@@ -33,3 +33,15 @@
 |        Jogo da garrafa          |        Jogo da garrafa completo           |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
 |        Jogo de dados            |        Jogo dos dados completo            |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
 |        Jogo de roleta-russa     |        Jogo de roleta russa completo      |  ![tesdfd](https://geps.dev/progress/0)   |    [Github Topic](https://github.com/)|
+
+### Sistema — Bem-vindo(a)
+- O primeiro sistema que um BOT de comunidade precisa. Algo para recepcionar os jogadores, não acha? Esse simples sistema já deixa seu grupo totalmente mais agradável e pensando nisso projetamos ele da melhor forma para nossos cliente. Tem três formas de usar ele, então há três possibilidades para esse mesmo sistema que você pode usar da forma que quiser! Achou interessante? Vamos pro melhor então: Os três principais recursos são:
+
+  #### Tipo 1:
+  - Bem-vindo(a) com uma imagem intuitiva, agradável e lindíssima, basta a pessoa entrar dentro do grupo que receberá essa mensagem com uma marcação. A imagem tem um background e informações importantes sobre o usuário, focamos em deixar algo mais prático e sem muitas coisas, simplesmente uma imagem com informações e algo que dê um trajeto para quem entrar na sua comunidade.
+ 
+  #### Tipo 2:
+  - Não gostou da ideia de apenas uma imagem com background, quer ter mais segurança? Então o tipo dois é o melhor para você. Ele faz a mesma coisa que o tipo um, mas antes de liberar o acesso completo ao grupo ele pede que faça uma verificação simplesmente clicando em um botão, dessa forma ele verifica o usuário e libera os canais, evitando aqueles BOTS genéricos na internet que só servem para spammar coisas para seus membros e outros chats.
+ 
+  #### Tipo 3:
+  - Mais, mais segurança!!! Nossa, se quer mais segurança, o sistema também tem para te oferecer! Com isso e os recursos do próprio discord de autentificação de telefone seu grupo será o mais seguro da atualidade! No tipo três elevamos a segurança, agora o usuário deverá clicar no botão e responder a um captcha gerado automaticamente, dessa forma nenhum BOT genérico conseguirá passar.
